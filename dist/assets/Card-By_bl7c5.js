@@ -1,0 +1,1 @@
+import{j as t}from"./vendor-motion-D4zeTaxz.js";import"./vendor-react-DcA0X899.js";const l=({children:s,className:r="",hover:o=!1})=>{const e="bg-white rounded-xl border border-border shadow-sm p-6",a=o?"hover:shadow-lg hover:-translate-y-1 transition-all duration-300":"";return t.jsx("div",{className:`${e} ${a} ${r}`,children:s})};export{l as C};
